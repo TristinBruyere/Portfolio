@@ -1,3 +1,3 @@
 # SE Portfolio
 
-**Professional Github:** (https://git.rockfin.com/Tbruyere)
+**Professional Github:** https://git.rockfin.com/Tbruyere
